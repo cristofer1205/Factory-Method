@@ -1,0 +1,8 @@
+package pattern.factory;
+
+public class Square implements Shape {
+
+    public void draw() {
+        System.out.println("I am a Square");
+    }
+}
